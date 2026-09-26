@@ -1,0 +1,6 @@
+{
+  "name": "Sample Bank Internet Banking",
+  "description": "Visual reconstruction of a banking internet portal with promotional banner, demo login card, quick services, and contact information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
